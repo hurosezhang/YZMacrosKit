@@ -1,0 +1,6 @@
+framework module YZMacrosKit {
+  umbrella header "YZMacrosKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

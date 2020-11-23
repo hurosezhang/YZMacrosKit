@@ -7,7 +7,7 @@
 //
 
 #import "YZViewController.h"
-
+#import "Config.h"
 @interface YZViewController ()
 
 @end
@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"--%@",YZtest);
 }
 
 - (void)didReceiveMemoryWarning

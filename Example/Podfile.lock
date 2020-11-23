@@ -1,0 +1,16 @@
+PODS:
+  - YZMacrosKit (0.1.0)
+
+DEPENDENCIES:
+  - YZMacrosKit (from `../`)
+
+EXTERNAL SOURCES:
+  YZMacrosKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YZMacrosKit: f3ca7662fb2adea21f7e29561d4a8a01bef9034a
+
+PODFILE CHECKSUM: cd47b2121b2495fa3fde4eb205f75f6bbe92b46d
+
+COCOAPODS: 1.8.4
