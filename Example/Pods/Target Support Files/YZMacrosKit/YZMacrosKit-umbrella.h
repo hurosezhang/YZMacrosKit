@@ -11,6 +11,7 @@
 #endif
 
 #import "Config.h"
+#import "YZColorAndFont.h"
 #import "YZScreen.h"
 
 FOUNDATION_EXPORT double YZMacrosKitVersionNumber;
