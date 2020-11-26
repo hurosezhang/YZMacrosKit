@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "Config.h"
+#import "YZScreen.h"
 
 FOUNDATION_EXPORT double YZMacrosKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char YZMacrosKitVersionString[];

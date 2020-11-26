@@ -1,8 +1,8 @@
 {
   "name": "YZMacrosKit",
   "version": "0.1.0",
-  "summary": "A short description of YZMacrosKit.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "YZMacrosKit 第一个版本",
+  "description": "TODO: YZMacrosKit的详细描述",
   "homepage": "https://github.com/hurosezhang/YZMacrosKit",
   "license": {
     "type": "MIT",

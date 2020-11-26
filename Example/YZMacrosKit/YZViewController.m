@@ -18,9 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"--%@",YZtest);
-    NSLog(@"--%@",YZlog);
 
+    self.view.backgroundColor = YZThemeColor;
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
