@@ -10,6 +10,6 @@
 #define Config_h
 
 #define YZtest   @"面对疾风吧"
-
+#define YZlog    @"亚索,接好了"
 
 #endif /* Config_h */
