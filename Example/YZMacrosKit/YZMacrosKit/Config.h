@@ -13,6 +13,7 @@
 
 #import "YZColorAndFont.h"
 
+#import "YZSingleton.h"
 
 
 #endif /* Config_h */

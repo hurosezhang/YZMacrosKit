@@ -13,6 +13,7 @@
 #import "Config.h"
 #import "YZColorAndFont.h"
 #import "YZScreen.h"
+#import "YZSingleton.h"
 
 FOUNDATION_EXPORT double YZMacrosKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char YZMacrosKitVersionString[];

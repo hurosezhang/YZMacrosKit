@@ -68,6 +68,7 @@
 		7EE26D4D256FB4BC0000F392 /* YZColorAndFont.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZColorAndFont.m; sourceTree = "<group>"; };
 		7EE26D4F256FB4BC0000F392 /* YZScreen.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZScreen.h; sourceTree = "<group>"; };
 		7EE26D50256FB4BC0000F392 /* YZScreen.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YZScreen.m; sourceTree = "<group>"; };
+		7EE26E11256FCEA40000F392 /* YZSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YZSingleton.h; sourceTree = "<group>"; };
 		8449A19008820C093B9432DC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BF3855EDA0BBAEB52F0304A1 /* Pods_YZMacrosKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_YZMacrosKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -197,6 +198,7 @@
 			isa = PBXGroup;
 			children = (
 				7EE26D4A256FB4BC0000F392 /* Config.h */,
+				7EE26E10256FCEA40000F392 /* YZSingle(单例宏) */,
 				7EE26D4B256FB4BC0000F392 /* YZColorAndFont */,
 				7EE26D4E256FB4BC0000F392 /* YZScreen */,
 			);
@@ -219,6 +221,14 @@
 				7EE26D50256FB4BC0000F392 /* YZScreen.m */,
 			);
 			path = YZScreen;
+			sourceTree = "<group>";
+		};
+		7EE26E10256FCEA40000F392 /* YZSingle(单例宏) */ = {
+			isa = PBXGroup;
+			children = (
+				7EE26E11256FCEA40000F392 /* YZSingleton.h */,
+			);
+			path = "YZSingle(单例宏)";
 			sourceTree = "<group>";
 		};
 		D20CF72F340A31B9B074521A /* Pods */ = {

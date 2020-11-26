@@ -1,7 +1,7 @@
 {
   "name": "YZMacrosKit",
-  "version": "0.1.0",
-  "summary": "YZMacrosKit 第一个版本",
+  "version": "0.1.1",
+  "summary": "YZMacrosKit 第二个版本",
   "description": "TODO: YZMacrosKit的详细描述",
   "homepage": "https://github.com/hurosezhang/YZMacrosKit",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/hurosezhang/YZMacrosKit.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
