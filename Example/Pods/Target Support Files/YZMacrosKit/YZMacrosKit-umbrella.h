@@ -10,8 +10,8 @@
 #endif
 #endif
 
-#import "Config.h"
 #import "YZColorAndFont.h"
+#import "YZMacros.h"
 #import "YZScreen.h"
 #import "YZSingleton.h"
 

@@ -6,8 +6,8 @@
 //  Copyright © 2020 hurosezhang. All rights reserved.
 //
 
-#ifndef Config_h
-#define Config_h
+#ifndef YZMacros_h
+#define YZMacros_h
 
 #import "YZScreen.h"
 
@@ -16,4 +16,4 @@
 #import "YZSingleton.h"
 
 
-#endif /* Config_h */
+#endif /* YZMacros_h */

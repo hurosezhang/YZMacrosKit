@@ -1,5 +1,5 @@
 PODS:
-  - YZMacrosKit (0.1.1)
+  - YZMacrosKit (0.1.2)
 
 DEPENDENCIES:
   - YZMacrosKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  YZMacrosKit: 171bbb0fb4747cb46bef8e73e22fb467f7294a1c
+  YZMacrosKit: e704202f198028e0d93bf8425a2c033bb3bfb4f7
 
 PODFILE CHECKSUM: cd47b2121b2495fa3fde4eb205f75f6bbe92b46d
 
